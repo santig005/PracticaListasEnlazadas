@@ -45,6 +45,7 @@ int main(){
                 l->mostrarUsers(true);
             }
         }
+        else if(n==5){}
         else{cout<<"Digite una opcion valida: ";}
-    }while(n!=-1);
+    }while(n!=5);
 }
