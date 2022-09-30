@@ -1,4 +1,4 @@
-# PracticaI Lenguajes de Programacion
+# Practica I Lenguajes de Programacion
 ##### Esta es la primera practica de la materia de Lenguajes de Programacion de la carrera de ingenieria de sistemas de la Universidad Eafit
 ### Consiste en manejo de usuarios y contraseñas mediante listas enlazadas y archivo de texto
 * **Integrante:** Santiago Gomez Alzate
